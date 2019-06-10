@@ -22,7 +22,7 @@ print(action_size, obs_size)
 
 
 # set variables
-episodes = 2500
+episodes = 25000
 max_steps = 20
 learning_rate = 0.5
 discount = 0.9
